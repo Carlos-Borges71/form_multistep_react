@@ -3,6 +3,9 @@
     gap: 2rem;
     justify-content: center;
 }
+.form-control textarea {
+    height: 120px;
+}
 
 .score-container svg {
     font-size: 1.6rem;
